@@ -1,0 +1,22 @@
+{
+    "name": "studyportals/gd",
+    "description": "GD Image manipulation",
+    "type": "library",
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "Rob van den Hout",
+            "email": "vdhout@studyportals.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "prefer-stable": true,
+    "autoload": {
+        "psr-4": {
+            "StudyPortals\\GD\\": "src/"
+        }
+    },
+    "require": {
+        "studyportals/exception": "^1.0"
+    }
+}
