@@ -17,6 +17,6 @@
         }
     },
     "require": {
-        "studyportals/exception": "^1.0"
+        "studyportals/exception": "^2.0"
     }
 }

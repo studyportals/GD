@@ -4,21 +4,21 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "92fba6c7ba2f41c77bfc11e042180787",
-    "content-hash": "87c68d1dabf9065846ac5b1179d50002",
+    "hash": "68ebc5546b4bf29ab29fe0be0ebc05d9",
+    "content-hash": "4c3145309aba9e79085482665d0ed995",
     "packages": [
         {
             "name": "studyportals/exception",
-            "version": "v1.0.0",
+            "version": "v2.0.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/studyportals/Exception.git",
-                "reference": "e6529dc4743ec4c249773be285e0ea386bcdb867"
+                "reference": "77d9c717df185a5ea3438e861a0c0524b07f88f5"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/studyportals/Exception/zipball/e6529dc4743ec4c249773be285e0ea386bcdb867",
-                "reference": "e6529dc4743ec4c249773be285e0ea386bcdb867",
+                "url": "https://api.github.com/repos/studyportals/Exception/zipball/77d9c717df185a5ea3438e861a0c0524b07f88f5",
+                "reference": "77d9c717df185a5ea3438e861a0c0524b07f88f5",
                 "shasum": ""
             },
             "type": "library",
@@ -38,7 +38,7 @@
                 }
             ],
             "description": "Default exceptions and ExceptionHandler for studyportals",
-            "time": "2017-11-02 11:13:20"
+            "time": "2017-11-27 10:29:50"
         }
     ],
     "packages-dev": [],
